@@ -1,4 +1,3 @@
-# 2D-vs-3D-UNET-DL-SIM
 ## Comparison between 2D and 3D U-Net for 3D SIM Super-resolution
 
 Analysis - visualization and metrics comparison of results. <br>
