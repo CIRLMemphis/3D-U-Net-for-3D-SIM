@@ -1,4 +1,4 @@
-# Comparison between 2D and 3D U-Net for 3D SIM Super-resolution
+## Comparison between 2D and 3D U-Net for 3D SIM Super-resolution
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -13,6 +13,14 @@ Windows PC core @i7, 32 GB
   ```sh
   pip install pytorch
   ```
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Training : run "training_UNet_SIM_3D.py" to train 3D U-Net  <br>
+Training config file: config file stored at "config_train_3D.py"  <br>
+Testing: run "Prediction_UNet_SIM_3D.py" to test 3D U-Net <br>
+Testing config file: config file stores at "config_predict.py" <br>
 
 ## File Descriptions
 
