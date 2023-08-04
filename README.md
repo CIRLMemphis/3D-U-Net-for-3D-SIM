@@ -8,7 +8,7 @@ Questions about this repo can be forwarded to bkebede@memphis.edu.
 
 ### Prerequisites
 
-Windows PC core @i7, 32 GB
+Windows PC core @i7, 32 GB, NVDIA TITAN RTX GPU
 * pytorch
   ```sh
   pip install pytorch
@@ -18,9 +18,9 @@ Windows PC core @i7, 32 GB
 ## Usage
 
 Training : run "training_UNet_SIM_3D.py" to train 3D U-Net  <br>
-Training config file: config file stored at "config_train_3D.py"  <br>
+Training config file: 3D U-Net config file stored at "config_train_3D.py"  <br>
 Testing: run "Prediction_UNet_SIM_3D.py" to test 3D U-Net <br>
-Testing config file: config file stores at "config_predict.py" <br>
+Testing config file: 3D U-Net config file stores at "config_predict.py" <br>
 
 ## File Descriptions
 
