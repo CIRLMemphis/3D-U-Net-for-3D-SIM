@@ -1,4 +1,4 @@
-## Comparison between 2D and 3D U-Net for 3D SIM Super-resolution
+# Comparison between 2D and 3D U-Net for 3D SIM Super-resolution
 
 <!-- GETTING STARTED -->
 ## Getting Started
