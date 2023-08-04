@@ -1,4 +1,20 @@
-## Comparison between 2D and 3D U-Net for 3D SIM Super-resolution
+# Comparison between 2D and 3D U-Net for 3D SIM Super-resolution
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This 3D U-Net code framework is an extension of Luhong Jin's 2D U-Net, it uses 3D processing instead of 2D processing and achieves less artifacts than its corresponding 2D U-Net.
+Questions about this repo can be forwarded to bkebede@memphis.edu.
+
+### Prerequisites
+
+Windows PC core @i7, 32 GB
+* pytorch
+  ```sh
+  pip install pytorch
+  ```
+
+## File Descriptions
 
 Analysis - visualization and metrics comparison of results. <br>
 Data - data couldn't be uploaded on github, its on local GPU computer in "E/Hasti"  <br>
