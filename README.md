@@ -4,7 +4,7 @@
 ## Getting Started
 
 This 3D U-Net code framework is an extension of Luhong Jin's 2D U-Net, it uses 3D processing instead of 2D processing and achieves less artifacts than its corresponding 2D U-Net.
-Questions about this repo can be forwarded to bkebede@memphis.edu.
+Questions about this repo can be forwarded to bkebede@memphis.edu. This work was done under as part of research in Computational Imaging Research Lab (CIRL) at the University of Memphis.
 
 ### Prerequisites
 
